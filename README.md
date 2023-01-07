@@ -60,6 +60,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [https://ismailium.vercel.app/])
-- GitHub [https://github.com/boularbahsmail/])
-- Twitter [https://twitter.com/boularbahsmail])
+- [Website](https://ismailium.vercel.app/)
+- [GitHub](https://github.com/boularbahsmail/)
+- [Twitter](https://twitter.com/boularbahsmail)
